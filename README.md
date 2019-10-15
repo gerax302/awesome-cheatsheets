@@ -25,7 +25,6 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### Imperative
 
-- [C](languages/C.txt)
 - [C#](languages/C%23.txt)
 - [PHP](languages/php.php)
 
@@ -50,8 +49,6 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### Javascript
 
-- [Feathers.js](backend/feathers.js)
-- [Moleculer](backend/moleculer.js)
 - [Node.js](backend/node.js)
 - [Sails.js](backend/sails.js)
   </details>
@@ -102,9 +99,5 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Heroku CLI](tools/heroku.sh)
 - [Kubernetes](tools/kubernetes.sh)
 - [Nanobox Boxfile](tools/nanobox_boxfile.yml)
-- [Nanobox CLI](tools/nanobox_cli.sh)
   </details>
 
-## 🙌🏼 How to Contribute?
-
-You are more than welcome to contribute and build your own cheat sheet for your favorite programming language, framework or development tool. Just submit changes via pull request and I will review them before merging.
